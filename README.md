@@ -1,4 +1,4 @@
-<h1 align="center">Naga Appalaneni</h1>
+<h1 align="center">Nagadeepak Appalaneni</h1>
 
 <h3 align="center">DevOps Engineer | Cloud Engineering | Platform Engineering | SRE | AI Automation</h3>
 
@@ -28,7 +28,7 @@ I enjoy building automation that reduces manual work, improves reliability, and 
 
 ---
 
-## Recruiter Snapshot
+## Professional Snapshot
 
 - Target roles: DevOps Engineer, Cloud Engineer, Platform Engineer, SRE, AI Automation Engineer
 - Core strengths: CI/CD, Kubernetes, Docker, Terraform, Cloud, Monitoring, Production Support

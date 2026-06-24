@@ -1,8 +1,3 @@
-<!--
-GitHub Profile README for Nagadeepak1998
-Replace placeholder links, project names, and contact details before sharing this profile widely.
--->
-
 <h1 align="center">Naga Appalaneni</h1>
 
 <h3 align="center">DevOps Engineer | Cloud Engineering | Platform Engineering | SRE | AI Automation</h3>
@@ -12,16 +7,13 @@ Replace placeholder links, project names, and contact details before sharing thi
 </p>
 
 <p align="center">
-  <!-- Replace with your actual LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/appalaneni-nagadeepak/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Replace with your actual email address -->
-  <a href="mailto:REPLACE_WITH_YOUR_EMAIL">
+  <a href="mailto:appalaneninagadeepak@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Replace with your portfolio, resume, or personal website link -->
-  <a href="https://REPLACE_WITH_YOUR_PORTFOLIO_LINK">
+  <a href="https://nagadeepak1998.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-View_Work-111827?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
@@ -119,55 +111,45 @@ I am building my portfolio around the intersection of DevOps, cloud platforms, r
 
 ## Featured Projects
 
-<!--
-Replace these placeholder projects with your real repositories.
-Use projects that show DevOps, cloud, automation, AI, Kubernetes, Terraform, monitoring, or production support skills.
--->
+### Release Rollback Decision Service
 
-### Cloud-Native CI/CD Pipeline
+Repository: [release-rollback-decision-service](https://github.com/Nagadeepak1998/release-rollback-decision-service)
 
-<!-- Replace the repository link below -->
-Repository: [cloud-native-cicd-pipeline](https://github.com/Nagadeepak1998/REPLACE_WITH_PROJECT_REPO)
+Deterministic release-gate service that evaluates rollout evidence and recommends continue, pause, or rollback decisions.
 
-A DevOps project demonstrating automated build, test, containerization, and deployment workflows using GitHub Actions or Jenkins.
+Key skills: Python, FastAPI, CI/CD release gates, Prometheus metrics, Kubernetes, Terraform
 
-Key skills: CI/CD, Docker, GitHub Actions, Jenkins, Deployment Automation
+### Vector Search Support Assistant
 
-### Kubernetes Deployment Automation
+Repository: [vector-search-support-assistant](https://github.com/Nagadeepak1998/vector-search-support-assistant)
 
-<!-- Replace the repository link below -->
-Repository: [kubernetes-deployment-automation](https://github.com/Nagadeepak1998/REPLACE_WITH_PROJECT_REPO)
+Support assistant that retrieves incident runbooks, returns cited next actions, and includes retrieval evaluation gates.
 
-A Kubernetes-focused project for deploying, scaling, and managing containerized applications with production-ready configuration.
+Key skills: Python, FastAPI, vector search, retrieval evaluation, support automation, Docker
 
-Key skills: Kubernetes, Docker, YAML, Platform Engineering, SRE
+### Incident Log Summarizer
 
-### Terraform Cloud Infrastructure
+Repository: [incident-log-summarizer](https://github.com/Nagadeepak1998/incident-log-summarizer)
 
-<!-- Replace the repository link below -->
-Repository: [terraform-cloud-infra](https://github.com/Nagadeepak1998/REPLACE_WITH_PROJECT_REPO)
+CLI and FastAPI service that turns noisy logs into severity, evidence, probable cause, and next-action summaries.
 
-Infrastructure-as-code project for provisioning cloud resources using Terraform with reusable modules and clean environment separation.
+Key skills: Python, incident triage, SRE, Kubernetes signals, Prometheus metrics, API design
 
-Key skills: Terraform, AWS, Azure, GCP, Infrastructure as Code
+### MLOps Model Drift Monitor
 
-### AI Automation for DevOps
+Repository: [mlops-model-drift-monitor](https://github.com/Nagadeepak1998/mlops-model-drift-monitor)
 
-<!-- Replace the repository link below -->
-Repository: [ai-devops-automation](https://github.com/Nagadeepak1998/REPLACE_WITH_PROJECT_REPO)
+MLOps project for comparing baseline and current model inputs, producing drift reports, and exposing CLI/API checks.
 
-Automation project using Python and AI-assisted workflows to support log analysis, documentation, monitoring, or operational tasks.
+Key skills: MLOps, drift detection, FastAPI, CLI tooling, Docker, Kubernetes
 
-Key skills: Python, AI Automation, DevOps, Monitoring, Productivity
+### Prometheus SLO Alert Lab
 
-### Monitoring and Incident Response Toolkit
+Repository: [prometheus-slo-alert-lab](https://github.com/Nagadeepak1998/prometheus-slo-alert-lab)
 
-<!-- Replace the repository link below -->
-Repository: [monitoring-incident-response-toolkit](https://github.com/Nagadeepak1998/REPLACE_WITH_PROJECT_REPO)
+SRE lab for evaluating multi-window SLO burn rates and routing page, ticket, or ok decisions.
 
-A reliability-focused project for monitoring, alerting, incident response notes, and production support automation.
-
-Key skills: SRE, Monitoring, Grafana, Prometheus, Production Support
+Key skills: Prometheus, SLOs, burn rates, incident response, FastAPI, Terraform
 
 ---
 
@@ -199,14 +181,11 @@ Key skills: SRE, Monitoring, Grafana, Prometheus, Production Support
 
 ## Connect with Me
 
-<!-- Replace with your actual LinkedIn profile URL -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/appalaneni-nagadeepak/)
 
-<!-- Replace with your actual email address -->
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE_WITH_YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:appalaneninagadeepak@gmail.com)
 
-<!-- Optional: replace with your portfolio, resume, or personal website -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-111827?style=for-the-badge)](https://REPLACE_WITH_YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-111827?style=for-the-badge)](https://nagadeepak1998.github.io/)
 
 ---
 
